@@ -1,0 +1,10 @@
+*.jar
+*.log
+*.rar
+*.zip
+.gradle/
+build/
+run/
+libs/
+.idea/
+.vscode/
